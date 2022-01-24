@@ -61,7 +61,7 @@ the user is responsible.
   
 ```if the 1st deploy button doesnt deploy use this (recomanded to use this 1st)```
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/afnanplk/f34ed6b03429ba67d46c709f841f69f4)    
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/kasinath1/Pinky)    
      </div>
 <br>
 <br >
@@ -113,7 +113,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 add your own heroku button
   
   example :
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/afnanplk/Pinky)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasinath1/Pinky)
   
   change it into your repo link
 ```
